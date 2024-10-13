@@ -1,0 +1,3 @@
+enum SnsType {
+  Kakao, Naver
+}
